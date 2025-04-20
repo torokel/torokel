@@ -14,7 +14,7 @@
 
 ---
 
-## 学習中のこと
+## 学習中
 
 - Kaggle（Titanic コンペ）
 - Power BI / Tableau
