@@ -18,7 +18,7 @@ Python（pandas, scikit-learn）／Tableau／SQL を使って、データ分析�
 タイタニック号の乗客データから、生存者を予測するコンペに取り組みました。  
 前処理、特徴量エンジニアリング、可視化、モデル作成（ランダムフォレストなど）を実施。
 
-最終スコア（Kaggle）：**0.78468**
+最終スコア（Kaggle）：**0.8268**
 
 ファイル：portfolios/Titanic/Titanic_EDA.ipynb
 
