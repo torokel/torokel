@@ -1,11 +1,25 @@
-# torokel – Portfolio
+# torokel のポートフォリオ置き場 🗂️
 
-データ分析と BI ダッシュボード開発の学習・アウトプット置き場です。  
-主な使用技術：**Tableau / Python（pandas, scikit-learn） / SQL**
+Python（pandas, scikit-learn）／Tableau／SQL を使って作った分析成果物をまとめています。
 
-## Projects
+---
 
-| Project | 概要 |
-|---------|------|
-| **[埼玉県公共施設ダッシュボード](portfolios/saitama_public_facilities_map/index.html)** | 公共施設 902 件を可視化。ヒートマップ ⇄ プロット切替 ／ カテゴリ別件数 |
-| **[Titanic 生存者予測](portfolios/Titanic)** | Titanic データの EDA → 前処理 → モデル比較（RandomForest ほか） |
+## 📍 埼玉県公共施設マップ
+
+埼玉県内の公共施設902件を、地図でわかりやすく可視化しました。  
+ヒートマップ／分布マップの切り替え、市区町村やカテゴリでのフィルタもできます。
+
+▶ [ダッシュボードを見る](./portfolios/saitama_public_facilities_map/index.html)
+
+---
+
+## 🛳 Titanic 生存者予測プロジェクト
+
+Kaggleの有名コンペ「Titanic」で、生存者を予測。  
+前処理 → 可視化 → モデル作成まで一通り実装しています。
+
+▶ [分析ノートブックを見る](./portfolios/Titanic/Titanic_EDA.ipynb)
+
+---
+
+気になる点やアドバイスなどありましたら、お気軽にどうぞ！
